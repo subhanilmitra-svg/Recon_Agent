@@ -1,0 +1,5 @@
+rzp_id,rzp_date,rzp_amount,bank_ref_id,status
+setl_11,2026-09-01,1500.0,B101,processed
+setl_22,2026-09-01,2000.0,B102,processed
+setl_33,2026-09-02,1000.0,B103,processed
+setl_55,2026-09-03,300.0,B105,processed
